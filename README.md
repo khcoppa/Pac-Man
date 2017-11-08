@@ -21,3 +21,7 @@
   * JavaScript
   * HTML5 Canvas
   * HTML5 / CSS3
+
+## WireFrame
+
+  * ![pac-man_wire](https://user-images.githubusercontent.com/12862833/32550786-679fd708-c45c-11e7-984c-4b94248ff12f.png)
